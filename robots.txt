@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://abiodunmusbaudeen.github.io/sitemap.xml
+Sitemap: https://abiodunmusbaudeen.com/sitemap.xml
