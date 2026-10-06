@@ -132,7 +132,6 @@ a:hover, a:focus-visible { color: var(--accent-dk); text-decoration: underline; 
 /* ---------- content ---------------------------------------------------- */
 
 .content { min-width: 0; padding-top: 0.2rem; }
-#contact { scroll-margin-top: 5rem; }
 
 h1 {
   font-size: 1.75rem; font-weight: 700;
